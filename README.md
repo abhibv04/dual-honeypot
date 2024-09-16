@@ -34,6 +34,13 @@ Once the web honeypot is run, follow the link mentioned in the output to see the
 
 Any associated libraries can easily be installed, using the terminal.
 
+Main program: honeypy.py
+SSH Honeypot: ssh_honeypot.py
+Web Honeypot: web_honeypot.py
+WordPress login page: wp-admin.html
+
+Any log files mentioned in the above programs will be created once the program is executed.
+
 Future improvements could be:
 Adding and logging more information by the user
 
