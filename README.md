@@ -26,7 +26,7 @@ These log files can later be investigated and analysed to find any suspicious ac
 This Honepot was made solely using Python and associated libraries.
 Please note that a key pair needs to be generated in order to test the SSH Honeypot
 
-Using command like "ssh -p 2223 username@ <ip-addr>", a connection can be established.
+Using command like "ssh -p 2223 username@0.0.0.0", a connection can be established.  [Enter IP address instead of 0.0.0.0]
 
 The 2 honeypots can only be run one at a time, and is thus stored in 2 different files.
 Once the web honeypot is run, follow the link mentioned in the output to see the desired result. 
